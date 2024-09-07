@@ -1,0 +1,2 @@
+# AmazoneRepo
+Amazon clone Repository
